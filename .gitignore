@@ -67,6 +67,9 @@ typings/
 
 # nuxt.js build output
 .nuxt
+nuxt/
+nuxt
+
 
 # Nuxt generate
 dist
@@ -89,6 +92,7 @@ sw.*
 # Vim swap files
 *.swp
 
-functions/
 
 public/
+
+.firebaserc
